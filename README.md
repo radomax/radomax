@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radomax
-- 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on some interesting projects
+- I’m interested in web development
+- I’m looking to collaborate on some interesting projects
 
 <!---
 radomax/radomax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
